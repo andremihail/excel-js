@@ -3,3 +3,5 @@
 node_modules
 qwer
 /.idea/
+dist
+/package-lock.json
